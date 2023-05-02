@@ -1,4 +1,4 @@
-#Problema_dos_Pares_Mais_Proximos
+# Problema_dos_Pares_Mais_Proximos
 
 Esse código é um algoritmo que encontra a menor distância entre dois pontos em um conjunto de pontos bidimensionais. Ele usa uma técnica de dividir e conquistar chamada "Divisão e Conquista". Vamos analisar linha por linha:
 
